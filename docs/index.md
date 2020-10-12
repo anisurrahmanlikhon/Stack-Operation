@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <body>
 <title> Stack Operation </title>
